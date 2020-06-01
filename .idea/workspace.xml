@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="580b470c-6966-4672-9e17-1269de164be4" name="Default Changelist" comment="" />
+    <list default="true" id="580b470c-6966-4672-9e17-1269de164be4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-redis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/redis-config.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -35,6 +41,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1cip9dsRVHtZJRi6YtAorMMbhUq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -186,11 +195,17 @@
       <option name="presentableId" value="Default" />
       <updated>1591021117545</updated>
       <workItem from="1591021118942" duration="16000" />
-      <workItem from="1591021184967" duration="185000" />
+      <workItem from="1591021184967" duration="1160000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="95" key="spring file set editor" timestamp="1591021670459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="95" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1591021670459" />
   </component>
 </project>
