@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580b470c-6966-4672-9e17-1269de164be4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedisHashTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedisListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedisObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RedisStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-redis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-redis.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/redis-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/redis-config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -276,6 +269,7 @@
       <updated>1591021117545</updated>
       <workItem from="1591021118942" duration="16000" />
       <workItem from="1591021184967" duration="5533000" />
+      <workItem from="1591071302156" duration="265000" />
     </task>
     <servers />
   </component>
@@ -287,22 +281,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591024763947" />
-    <state width="1493" height="310" key="GridCell.Tab.0.bottom" timestamp="1591026724013">
+    <state width="1493" height="310" key="GridCell.Tab.0.bottom" timestamp="1591071567060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="310" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591026724013" />
-    <state width="1493" height="310" key="GridCell.Tab.0.center" timestamp="1591026724013">
+    <state width="1493" height="310" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591071567060" />
+    <state width="1493" height="310" key="GridCell.Tab.0.center" timestamp="1591071567060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="310" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591026724013" />
-    <state width="1493" height="310" key="GridCell.Tab.0.left" timestamp="1591026724013">
+    <state width="1493" height="310" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591071567060" />
+    <state width="1493" height="310" key="GridCell.Tab.0.left" timestamp="1591071567059">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="310" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591026724013" />
-    <state width="1493" height="310" key="GridCell.Tab.0.right" timestamp="1591026724013">
+    <state width="1493" height="310" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591071567059" />
+    <state width="1493" height="310" key="GridCell.Tab.0.right" timestamp="1591071567060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="310" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591026724013" />
+    <state width="1493" height="310" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591071567060" />
     <state x="227" y="28" key="SettingsEditor" timestamp="1591026451479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
