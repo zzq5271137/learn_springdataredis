@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580b470c-6966-4672-9e17-1269de164be4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/服务器启动项.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/服务器启动项.txt" beforeDir="false" afterPath="$PROJECT_DIR$/服务器启动Redis.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,6 +273,7 @@
       <workItem from="1591071302156" duration="265000" />
       <workItem from="1591088105081" duration="161000" />
       <workItem from="1591088278680" duration="49000" />
+      <workItem from="1591088593886" duration="58000" />
     </task>
     <servers />
   </component>
