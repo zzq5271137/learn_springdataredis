@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580b470c-6966-4672-9e17-1269de164be4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/redis-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/redis-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/服务器启动项.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -77,6 +77,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\IDEA_workspace\Learn_SpringDataRedis" />
       <recent name="H:\IDEA_workspace\Learn_SpringDataRedis\src\main\resources" />
     </key>
   </component>
@@ -270,6 +271,8 @@
       <workItem from="1591021118942" duration="16000" />
       <workItem from="1591021184967" duration="5533000" />
       <workItem from="1591071302156" duration="265000" />
+      <workItem from="1591088105081" duration="161000" />
+      <workItem from="1591088278680" duration="49000" />
     </task>
     <servers />
   </component>

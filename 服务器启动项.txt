@@ -1,0 +1,10 @@
+服务器参数:
+1). 系统: CentOS7
+2). IP: 192.168.70.3
+3). 用户名: root
+    密码: zzq12345
+
+服务器启动项:
+1. Redis
+   启动: /usr/local/dev/redis/redis-4.0.9/6379/bin/redis-server /usr/local/dev/redis/redis-4.0.9/6379/bin/redis.conf
+   查看: ps -ef|grep redis
